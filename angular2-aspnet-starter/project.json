@@ -1,0 +1,22 @@
+﻿{
+  "version": "1.0.0-*",
+  "buildOptions": {
+    "debugType": "portable",
+    "emitEntryPoint": true
+  },
+  "dependencies": {
+    "Microsoft.AspNetCore.Hosting.Abstractions": "1.1.0"
+  },
+  "frameworks": {
+    "netcoreapp1.0": {
+      "dependencies": {
+			"Microsoft.AspNet.ConfigurationModel": { "version": "0.1-alpha-*", "options": "private" },
+			"Microsoft.NETCore.App": {
+					"type": "platform",
+					"version": "1.0.1"
+			}
+		},
+      "imports": "dnxcore50"
+    }
+  }
+}

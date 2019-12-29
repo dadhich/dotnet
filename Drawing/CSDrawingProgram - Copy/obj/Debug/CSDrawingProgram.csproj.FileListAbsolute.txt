@@ -1,0 +1,6 @@
+C:\MyWork\NonOSS\Drawing\CSDrawingProgram\bin\Debug\CSDrawingProgram.exe.config
+C:\MyWork\NonOSS\Drawing\CSDrawingProgram\bin\Debug\CSDrawingProgram.exe
+C:\MyWork\NonOSS\Drawing\CSDrawingProgram\bin\Debug\CSDrawingProgram.pdb
+C:\MyWork\NonOSS\Drawing\CSDrawingProgram\obj\Debug\CSDrawingProgram.csprojResolveAssemblyReference.cache
+C:\MyWork\NonOSS\Drawing\CSDrawingProgram\obj\Debug\CSDrawingProgram.exe
+C:\MyWork\NonOSS\Drawing\CSDrawingProgram\obj\Debug\CSDrawingProgram.pdb
