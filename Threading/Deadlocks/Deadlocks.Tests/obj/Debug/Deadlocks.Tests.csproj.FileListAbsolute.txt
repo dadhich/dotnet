@@ -1,0 +1,13 @@
+C:\AbhishekDadhichCodes\Threading\Deadlocks\Deadlocks.Tests\bin\Debug\Deadlocks.Tests.dll
+C:\AbhishekDadhichCodes\Threading\Deadlocks\Deadlocks.Tests\bin\Debug\Deadlocks.Tests.pdb
+C:\AbhishekDadhichCodes\Threading\Deadlocks\Deadlocks.Tests\bin\Debug\Deadlocks.exe
+C:\AbhishekDadhichCodes\Threading\Deadlocks\Deadlocks.Tests\bin\Debug\Microsoft.Pex.Framework.dll
+C:\AbhishekDadhichCodes\Threading\Deadlocks\Deadlocks.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\AbhishekDadhichCodes\Threading\Deadlocks\Deadlocks.Tests\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+C:\AbhishekDadhichCodes\Threading\Deadlocks\Deadlocks.Tests\bin\Debug\Microsoft.ExtendedReflection.dll
+C:\AbhishekDadhichCodes\Threading\Deadlocks\Deadlocks.Tests\bin\Debug\Deadlocks.pdb
+C:\AbhishekDadhichCodes\Threading\Deadlocks\Deadlocks.Tests\bin\Debug\Microsoft.Pex.Framework.xml
+C:\AbhishekDadhichCodes\Threading\Deadlocks\Deadlocks.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\AbhishekDadhichCodes\Threading\Deadlocks\Deadlocks.Tests\obj\Debug\Deadlocks.Tests.csprojResolveAssemblyReference.cache
+C:\AbhishekDadhichCodes\Threading\Deadlocks\Deadlocks.Tests\obj\Debug\Deadlocks.Tests.dll
+C:\AbhishekDadhichCodes\Threading\Deadlocks\Deadlocks.Tests\obj\Debug\Deadlocks.Tests.pdb

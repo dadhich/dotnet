@@ -1,0 +1,6 @@
+C:\AbhishekDadhichCodes\Threading\Deadlocks\Deadlocks\bin\Debug\Deadlocks.exe.config
+C:\AbhishekDadhichCodes\Threading\Deadlocks\Deadlocks\bin\Debug\Deadlocks.exe
+C:\AbhishekDadhichCodes\Threading\Deadlocks\Deadlocks\bin\Debug\Deadlocks.pdb
+C:\AbhishekDadhichCodes\Threading\Deadlocks\Deadlocks\obj\Debug\Deadlocks.csprojResolveAssemblyReference.cache
+C:\AbhishekDadhichCodes\Threading\Deadlocks\Deadlocks\obj\Debug\Deadlocks.exe
+C:\AbhishekDadhichCodes\Threading\Deadlocks\Deadlocks\obj\Debug\Deadlocks.pdb

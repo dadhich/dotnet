@@ -1,0 +1,7 @@
+C:\AbhishekDadhichCodes\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.DataAccess.dll
+C:\AbhishekDadhichCodes\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.DataAccess.pdb
+C:\AbhishekDadhichCodes\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.Model.dll
+C:\AbhishekDadhichCodes\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.Model.pdb
+C:\AbhishekDadhichCodes\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.csprojResolveAssemblyReference.cache
+C:\AbhishekDadhichCodes\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.dll
+C:\AbhishekDadhichCodes\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.pdb
