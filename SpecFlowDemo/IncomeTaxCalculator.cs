@@ -1,53 +1,29 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SpecFlowDemo
+﻿namespace SpecFlowDemo
 {
-    public class Person
-    {
-        public string PersonName { get; set; }
-
-        public double AnnualIncome { get; set; }
-
-        public double TaxPayable { get; set; }
-
-        public string TaxRate { get; set; }
-
-        public Person(string name)
+    public class IncomeTaxCalculator
+    { 
+        public static void CalculateTax(Person person)
         {
-            PersonName = name;
-        }
-
-        public void CalculateTax()
-        {
-            if (AnnualIncome <= 10000)
+            if (person.AnnualIncome <= 10000)
             {
-                TaxPayable = 0;
-                TaxRate = "0%";
+                person.TaxPayable = 0;
+                person.TaxRate = "0%";
             }
-            else if (AnnualIncome > 10000 && AnnualIncome <= 20000)
+            else if (person.AnnualIncome > 10000 && person.AnnualIncome <= 20000)
             {
-                TaxPayable = AnnualIncome * 0.1;
-                TaxRate = "10%";
+                person.TaxPayable = person.AnnualIncome * 0.1;
+                person.TaxRate = "10%";
             }
-            else if (AnnualIncome > 20000 && AnnualIncome <= 50000)
+            else if (person.AnnualIncome > 20000 && person.AnnualIncome <= 50000)
             {
-                TaxPayable = AnnualIncome * 0.2;
-                TaxRate = "20%";
+                person.TaxPayable = person.AnnualIncome * 0.2;
+                person.TaxRate = "20%";
             }
             else
             {
-                TaxPayable = AnnualIncome * 0.3;
-                TaxRate = "30%";
+                person.TaxPayable = person.AnnualIncome * 0.3;
+                person.TaxRate = "30%";
             }
         }
-    }
-
-    public class IncomeTaxCalculator
-    {
-        
     }
 }

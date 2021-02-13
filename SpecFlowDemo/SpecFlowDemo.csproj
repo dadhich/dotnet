@@ -95,6 +95,7 @@
   <ItemGroup>
     <Compile Include="IncomeTaxCalculationSteps.cs" />
     <Compile Include="IncomeTaxCalculator.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

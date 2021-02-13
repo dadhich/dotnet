@@ -24,7 +24,7 @@ namespace SpecFlowDemo
         [When(@"income tax is calculated for the person")]
         public void WhenIncomeTaxIsCalculatedForThePerson()
         {
-            person.CalculateTax();
+            IncomeTaxCalculator.CalculateTax(person);
         }
         
         [Then(@"the income-tax-rate should be 20 percent")]
