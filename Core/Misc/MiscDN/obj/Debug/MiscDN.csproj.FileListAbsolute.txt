@@ -1,0 +1,7 @@
+C:\AbhishekDadhichCodes\DotNet\dotnet\Core\Misc\MiscDN\bin\Debug\MiscDN.exe.config
+C:\AbhishekDadhichCodes\DotNet\dotnet\Core\Misc\MiscDN\bin\Debug\MiscDN.exe
+C:\AbhishekDadhichCodes\DotNet\dotnet\Core\Misc\MiscDN\bin\Debug\MiscDN.pdb
+C:\AbhishekDadhichCodes\DotNet\dotnet\Core\Misc\MiscDN\obj\Debug\MiscDN.csprojAssemblyReference.cache
+C:\AbhishekDadhichCodes\DotNet\dotnet\Core\Misc\MiscDN\obj\Debug\MiscDN.exe
+C:\AbhishekDadhichCodes\DotNet\dotnet\Core\Misc\MiscDN\obj\Debug\MiscDN.pdb
+C:\AbhishekDadhichCodes\DotNet\dotnet\Core\Misc\MiscDN\obj\Debug\MiscDN.csproj.CoreCompileInputs.cache

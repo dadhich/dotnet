@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y6cKDrYTLd/WkVgcIJ+tvtL56vIvCsTS8Qe2zqy+c/sL1UM6oX1ns5TT4auBhnDXMp8iUngCxDWQ125kvF3y9g==",
+  "success": true,
+  "projectFilePath": "c:\\AbhishekDadhichCodes\\DotNet\\dotnet\\EnvTest\\EnvTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manth\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

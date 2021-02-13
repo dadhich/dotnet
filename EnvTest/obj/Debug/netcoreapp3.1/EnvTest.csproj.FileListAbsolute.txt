@@ -1,0 +1,13 @@
+c:\AbhishekDadhichCodes\DotNet\dotnet\EnvTest\bin\Debug\netcoreapp3.1\EnvTest.exe
+c:\AbhishekDadhichCodes\DotNet\dotnet\EnvTest\bin\Debug\netcoreapp3.1\EnvTest.deps.json
+c:\AbhishekDadhichCodes\DotNet\dotnet\EnvTest\bin\Debug\netcoreapp3.1\EnvTest.runtimeconfig.json
+c:\AbhishekDadhichCodes\DotNet\dotnet\EnvTest\bin\Debug\netcoreapp3.1\EnvTest.runtimeconfig.dev.json
+c:\AbhishekDadhichCodes\DotNet\dotnet\EnvTest\bin\Debug\netcoreapp3.1\EnvTest.dll
+c:\AbhishekDadhichCodes\DotNet\dotnet\EnvTest\bin\Debug\netcoreapp3.1\EnvTest.pdb
+c:\AbhishekDadhichCodes\DotNet\dotnet\EnvTest\obj\Debug\netcoreapp3.1\EnvTest.csprojAssemblyReference.cache
+c:\AbhishekDadhichCodes\DotNet\dotnet\EnvTest\obj\Debug\netcoreapp3.1\EnvTest.AssemblyInfoInputs.cache
+c:\AbhishekDadhichCodes\DotNet\dotnet\EnvTest\obj\Debug\netcoreapp3.1\EnvTest.AssemblyInfo.cs
+c:\AbhishekDadhichCodes\DotNet\dotnet\EnvTest\obj\Debug\netcoreapp3.1\EnvTest.csproj.CoreCompileInputs.cache
+c:\AbhishekDadhichCodes\DotNet\dotnet\EnvTest\obj\Debug\netcoreapp3.1\EnvTest.dll
+c:\AbhishekDadhichCodes\DotNet\dotnet\EnvTest\obj\Debug\netcoreapp3.1\EnvTest.pdb
+c:\AbhishekDadhichCodes\DotNet\dotnet\EnvTest\obj\Debug\netcoreapp3.1\EnvTest.genruntimeconfig.cache
