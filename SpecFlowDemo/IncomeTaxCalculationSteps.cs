@@ -2,7 +2,7 @@
 using TechTalk.SpecFlow;
 using Xunit;
 
-namespace SpecFlowDemo2
+namespace SpecFlowDemo
 {
     [Binding]
     public class IncomeTaxCalculationSteps
@@ -27,8 +27,8 @@ namespace SpecFlowDemo2
             person.CalculateTax();
         }
         
-        [Then(@"the income-tax-rate should be (.*)%")]
-        public void ThenTheIncome_Tax_RateShouldBe20Percent(int p0)
+        [Then(@"the income-tax-rate should be 20 percent")]
+        public void ThenTheIncome_Tax_RateShouldBe20Percent()
         {
             Assert.Equal("20%", person.TaxRate);
         }

@@ -119,7 +119,7 @@ this.ScenarioInitialize(scenarioInfo);
  testRunner.When("income tax is calculated for the person", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line hidden
 #line 8
- testRunner.Then("the income-tax-rate should be 20%", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+ testRunner.Then("the income-tax-rate should be 20 percent", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
 #line 9
  testRunner.And("the income-tax-amount payable by the person should be Annual-Income Multiplied by" +
