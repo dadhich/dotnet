@@ -1,43 +1,47 @@
-{
-  "name": "angular2-aspnetcore-starter",
-  "version": "0.0.1",
-  "description": "Starter application using Angular 2 and ASP.NET Core",
-  "scripts": {
-    "start": "tsc && concurrently \"tsc -w\" \"dotnet watch run\" ",
-    "install": "dotnet restore",
-    "clean": "npm run clean:dotnet && npm run clean:npm",
-    "clean:dotnet": "npm run clean:bin && npm run clean:obj",
-    "clean:bin": "del /q .\\bin\\*.* && for /d %i in (.\\bin\\*.*) do @rmdir /s /q \"%i\" ",
-    "clean:obj": "del /q .\\obj\\*.* && for /d %i in (.\\obj\\*.*) do @rmdir /s /q \"%i\" ",
-    "clean:npm": "del /q .\\node_modules\\*.* && for /d %i in (.\\node_modules\\*.*) do @rmdir /s /q \"%i\" ",
-    "edge": "start microsoft-edge:http://localhost:5000",
-    "chrome": "start chrome http://localhost:5000",
-    "firefox": "start firefox http://localhost:5000"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "@angular/common": "~2.2.0",
-    "@angular/compiler": "~2.2.0",
-    "@angular/core": "~2.2.0",
-    "@angular/forms": "~2.2.0",
-    "@angular/http": "~2.2.0",
-    "@angular/platform-browser": "~2.2.0",
-    "@angular/platform-browser-dynamic": "~2.2.0",
-    "@angular/router": "~3.2.0",
-
-    "angular-in-memory-web-api": "~0.1.15",
-    "systemjs": "0.19.40",
-    "core-js": "^2.4.1",
-    "reflect-metadata": "^0.1.8",
-    "rxjs": "5.0.0-beta.12",
-    "zone.js": "^0.6.26"
-  },
-  "devDependencies": {
-    "concurrently": "^3.1.0",
-    "typescript": "^2.0.10",
-    "@types/node": "^6.0.46"
-  },
-  "repository": {}
-}
+ {                                                                                                                                                                            
+    "name": "angular-quickstart",
+    "version": "1.0.0",                                                                                                                                                        
+    "description": "QuickStart package.json - UPDATED with security patches (fixes CVE-2026-27970)",                                                                           
+    "scripts": {
+      "start": "ng serve --open",
+      "build": "ng build",
+      "test": "ng test",
+      "test-once": "ng test --watch=false --browsers=ChromeHeadless",
+      "lint": "ng lint",
+      "e2e": "ng e2e",
+      "tsc": "tsc",
+      "tsc:w": "tsc -w"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+      "@angular/animations": "^19.2.0",
+      "@angular/common": "^19.2.0",
+      "@angular/compiler": "^19.2.0",
+      "@angular/core": "^19.2.0",
+      "@angular/forms": "^19.2.0",
+      "@angular/platform-browser": "^19.2.0",
+      "@angular/platform-browser-dynamic": "^19.2.0",
+      "@angular/router": "^19.2.0",
+      "rxjs": "^7.8.1",
+      "tslib": "^2.8.1",
+      "zone.js": "^0.15.0"
+    },
+    "devDependencies": {
+      "@angular-devkit/build-angular": "^19.2.0",
+      "@angular/cli": "^19.2.0",
+      "@angular/compiler-cli": "^19.2.0",
+      "@types/jasmine": "^5.1.4",
+      "@types/node": "^22.10.2",
+      "jasmine-core": "^5.5.0",
+      "karma": "^6.4.4",
+      "karma-chrome-launcher": "^3.2.0",
+      "karma-coverage": "^2.2.1",
+      "karma-jasmine": "^5.1.0",
+      "karma-jasmine-html-reporter": "^2.1.0",
+      "typescript": "~5.7.2"
+    },
+    "repository": {}
+  }
