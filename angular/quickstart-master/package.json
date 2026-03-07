@@ -1,58 +1,47 @@
-{
-  "name": "angular-quickstart",
-  "version": "1.0.0",
-  "description": "QuickStart package.json from the documentation, supplemented with testing support",
-  "scripts": {
-    "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
-    "e2e": "tsc && concurrently \"http-server -s\" \"protractor protractor.config.js\" --kill-others --success first",
-    "lint": "tslint ./app/**/*.ts -t verbose",
-    "lite": "lite-server",
-    "pree2e": "webdriver-manager update",
-    "test": "tsc && concurrently \"tsc -w\" \"karma start karma.conf.js\"",
-    "test-once": "tsc && karma start karma.conf.js --single-run",
-    "tsc": "tsc",
-    "tsc:w": "tsc -w"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "@angular/common": "~2.4.0",
-    "@angular/compiler": "~2.4.0",
-    "@angular/core": "~2.4.0",
-    "@angular/forms": "~2.4.0",
-    "@angular/http": "~2.4.0",
-    "@angular/platform-browser": "~2.4.0",
-    "@angular/platform-browser-dynamic": "~2.4.0",
-    "@angular/router": "~3.4.0",
-
-    "angular-in-memory-web-api": "~0.2.2",
-    "systemjs": "0.19.40",
-    "core-js": "^2.4.1",
-    "reflect-metadata": "^0.1.8",
-    "rxjs": "5.0.1",
-    "zone.js": "^0.7.4"
-  },
-  "devDependencies": {
-    "concurrently": "^3.1.0",
-    "lite-server": "^2.2.2",
-    "typescript": "~2.0.10",
-
-    "canonical-path": "0.0.2",
-    "http-server": "^0.9.0",
-    "tslint": "^3.15.1",
-    "lodash": "^4.16.4",
-    "jasmine-core": "~2.4.1",
-    "karma": "^1.3.0",
-    "karma-chrome-launcher": "^2.0.0",
-    "karma-cli": "^1.0.1",
-    "karma-jasmine": "^1.0.2",
-    "karma-jasmine-html-reporter": "^0.2.2",
-    "protractor": "~4.0.14",
-    "rimraf": "^2.5.4",
-
-    "@types/node": "^6.0.46",
-    "@types/jasmine": "^2.5.36"
-  },
-  "repository": {}
-}
+ {                                                                                                                                                                            
+    "name": "angular-quickstart",
+    "version": "1.0.0",                                                                                                                                                        
+    "description": "QuickStart package.json - UPDATED with security patches (fixes CVE-2026-27970)",                                                                           
+    "scripts": {
+      "start": "ng serve --open",
+      "build": "ng build",
+      "test": "ng test",
+      "test-once": "ng test --watch=false --browsers=ChromeHeadless",
+      "lint": "ng lint",
+      "e2e": "ng e2e",
+      "tsc": "tsc",
+      "tsc:w": "tsc -w"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+      "@angular/animations": "^19.2.0",
+      "@angular/common": "^19.2.0",
+      "@angular/compiler": "^19.2.0",
+      "@angular/core": "^19.2.0",
+      "@angular/forms": "^19.2.0",
+      "@angular/platform-browser": "^19.2.0",
+      "@angular/platform-browser-dynamic": "^19.2.0",
+      "@angular/router": "^19.2.0",
+      "rxjs": "^7.8.1",
+      "tslib": "^2.8.1",
+      "zone.js": "^0.15.0"
+    },
+    "devDependencies": {
+      "@angular-devkit/build-angular": "^19.2.0",
+      "@angular/cli": "^19.2.0",
+      "@angular/compiler-cli": "^19.2.0",
+      "@types/jasmine": "^5.1.4",
+      "@types/node": "^22.10.2",
+      "jasmine-core": "^5.5.0",
+      "karma": "^6.4.4",
+      "karma-chrome-launcher": "^3.2.0",
+      "karma-coverage": "^2.2.1",
+      "karma-jasmine": "^5.1.0",
+      "karma-jasmine-html-reporter": "^2.1.0",
+      "typescript": "~5.7.2"
+    },
+    "repository": {}
+  }
